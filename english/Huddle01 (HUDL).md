@@ -10,7 +10,7 @@ Huddle uses blockchain node to node architecture and custom tools in order to sc
 
 **A Decentralized Internet Needs Decentralized Methods of Communication**
 
-If the internet has to be truly open, a communication needs to be truly decentralized as well. Current web communication architecture has had to be centralized, which has led to no guarantees of data privacy while using these platforms. In Web3, even today, while most of the internet tech stack is getting progressively decentralized, communication seems to be lagging the rest. The lack of market ready alternatives has been a main reason that web3 communities still use centralized video conferencing applications like zoom, or google meet. Given that data sensitivity in communication is very high, privacy and security are of utmost importance.  
+If the internet has to be truly open, a communication network needs to be truly decentralized as well. Current web communication architecture has had to be centralized, which has led to no guarantees of data privacy while using these platforms. In Web3, even today, while most of the internet tech stack is getting progressively decentralized, communication seems to be lagging the rest. The lack of market ready alternatives has been a main reason that web3 communities still use centralized video conferencing applications like zoom, or google meet. Given that data sensitivity in communication is very high, privacy and security are of utmost importance.  
 
 **Web2 P2P Live Engagement Architecture Cannot Scale Beyond A Certain Amount** 
 
@@ -20,12 +20,12 @@ Given the nature of WebRTC, which cannot scale (by itself) at all beyond 2 parti
 
 There is a massive market for live video streaming. Driven primarily by the parabolic increase in demand and popularity in gaming, live streaming applications like Twitch and Patreon have established strong product market fit, by appealing to more niche creator audiences (than a YouTube would) and enabling some sort layer of creator monetization. It goes without saying that these monetization levers come with their set of drawbacks (take rates, IP ownership issues, privacy concerns etc.) that harm creators in the long run. 
 
-Huddle’s livestreaming SDK infrastructure will allow smaller, individual creators to spin up a livestreaming set up for their own niche audiences, without any need for a middle entity, while having total ownership of content IP, and monetization control.
+Huddle’s livestreaming SDK infrastructure will allow smaller, individual creators to spin up a livestreaming setup for their own niche audiences, without any need for a middle entity, while having total ownership of content IP, and monetization control.
 
 
 **Huddle Will Form the Infrastructure Layer for Streaming Across the Internet**
 
-The Bull case for Web3 is that it provides cheaper, more scalable products than its web2 counterparts. As long as the user experience is great, frictionless and the overall product is more cost efficient, demand will accrue. Owning to the current macroeconomic environment, We see the next 2 years play out in a manner where organizations of all sizes that feel the pressure to shrink their bottom lines resort to multiple cost cutting measures, making Huddle an attractive destination for organizational communication. Huddle’s infrastructure could see potential Zoom integrations, or a Twitch Integration. 
+The Bull case for Web3 is that it provides cheaper, more scalable products than its Web2 counterparts. As long as the user experience is great, frictionless, and the overall product is more cost-efficient, demand will accrue. Owning to the current macroeconomic environment, We see the next 2 years play out in a manner where organizations of all sizes that feel the pressure to shrink their bottom lines resort to multiple cost cutting measures, making Huddle an attractive destination for organizational communication. Huddle’s infrastructure could see potential Zoom integrations, or a Twitch Integration. 
 
 **Strong Web3 Feature Set**
  
@@ -97,7 +97,7 @@ TLDR: SFU and MCU are the only options to scale webRTC, and both are value extra
 
 ### Huddle01 Protcol Tech Stack
 
-Huddle01 aims to provide seamless real-time communication for the Next-Gen. It will also lay a solid foundation for builders to innovate on top of it and build various client-facing applications. Huddle Provides a ready to use platform for video conferencing with a single click. They also have custom SDKs, on both mobile and web platforms for custom platform integrations. The protocol aims (and has so far proven) to scale WebRTC through a decentralized network of nodes, being able to provide live audio/video streaming infrastructure that is fast (low latency) and inexpensive (not CPU intensive) to use.
+Huddle01 aims to provide seamless real-time communication for the Next-Gen. It will also lay a solid foundation for builders to innovate on top of and build various client-facing applications. Huddle provides a ready to use platform for video conferencing with a single click. They also have custom SDKs, on both mobile and web platforms for custom platform integrations. The protocol aims (and has so far proven) to scale WebRTC through a decentralized network of nodes, being able to provide live audio/video streaming infrastructure that is fast (low latency) and inexpensive (not CPU intensive) to use.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/173389714-e52945b1-9e62-4a24-8b3f-418fd93dbf07.png">
 
@@ -178,14 +178,21 @@ Huddle Network Participants
 
 ## Protocol Performance Metrics 
 
+**Source: [Huddle01 Substack](https://huddle01.substack.com/p/huddle01-bi-weekly-updates-june-1?r=ysdbe&utm_campaign=post&utm_medium=web)**
+
+To date, the Huddle01 platform has clocked in:
+* 890K Minutes
+* 48K Meetings
+* 8.8K Wallet Users
+
 ## Business Model 
 
 **Huddle01’s Application Layer** 
 
 A subscription model for access to the product, with a freemium version always available.
 
-* Personal Pro – Upto 50 Participants 
-* Business – For large meetings upto 100 participants 
+* Personal Pro – Up to 50 Participants 
+* Business – For large meetings up to 100 participants 
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/96482943/189668227-5f9ea4c5-02f4-48c3-ada2-0030077a03eb.png">
 
